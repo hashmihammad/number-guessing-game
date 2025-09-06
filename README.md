@@ -31,22 +31,18 @@ A simple Python program where the computer picks a random number, and the player
 ```
 Welcome to the Number Guessing Game!
 Guess a number between 1 and 100.
-Enter your guess: 65
+Enter your guess: 50
 Your guess is too low.
-Enter your guess: 87
+Enter your guess: 70
+Very close! Try a slightly lower number.
+Enter your guess: 65
 Very close! Try a slightly higher number.
-Enter your guess: 90
-Very close! Try a slightly higher number.
-Enter your guess: 98
-You are near! Try a lower number.
-Enter your guess: 95
+Enter your guess: 68
 Very close! Try a slightly lower number.
-Enter your guess: 93
+Enter your guess: 67
 Very close! Try a slightly lower number.
-Enter your guess: 92
-Very close! Try a slightly lower number.
-Enter your guess: 91
-Congratulations! You guessed it right in 8 attempts.
+Enter your guess: 66
+Congratulations! You guessed it right in 6 attempts.
 ```
 
 ---
