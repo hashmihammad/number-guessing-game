@@ -34,13 +34,19 @@ Guess a number between 1 and 100.
 Enter your guess: 65
 Your guess is too low.
 Enter your guess: 87
+Very close! Try a slightly higher number.
+Enter your guess: 90
+Very close! Try a slightly higher number.
+Enter your guess: 98
 You are near! Try a lower number.
-Enter your guess: 80
+Enter your guess: 95
 Very close! Try a slightly lower number.
-Enter your guess: 78
+Enter your guess: 93
 Very close! Try a slightly lower number.
-Enter your guess: 77
-Congratulations! You guessed it right in 5 attempts.
+Enter your guess: 92
+Very close! Try a slightly lower number.
+Enter your guess: 91
+Congratulations! You guessed it right in 8 attempts.
 ```
 
 ---
